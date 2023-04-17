@@ -1,0 +1,21 @@
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Minecraft Quiz\bin\Debug\Minecraft Quiz.exe
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Minecraft Quiz\bin\Debug\Minecraft Quiz.pdb
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Minecraft Quiz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Minecraft Quiz\obj\Debug\Minecraft_Quiz.Form1.resources
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Minecraft Quiz\obj\Debug\Minecraft_Quiz.Properties.Resources.resources
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Minecraft Quiz\obj\Debug\Minecraft Quiz.csproj.GenerateResource.Cache
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Minecraft Quiz\obj\Debug\Minecraft Quiz.exe
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Minecraft Quiz\obj\Debug\Minecraft Quiz.pdb
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\obj\Debug\Minecraft Quiz.exe
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\obj\Debug\Minecraft Quiz.pdb
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\bin\Debug\Minecraft Quiz.exe.config
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\bin\Debug\Minecraft Quiz.exe.manifest
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\bin\Debug\Minecraft Quiz.application
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\bin\Debug\Minecraft Quiz.exe
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\bin\Debug\Minecraft Quiz.pdb
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\obj\Debug\Minecraft_Quiz.Form1.resources
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\obj\Debug\Minecraft_Quiz.Properties.Resources.resources
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\obj\Debug\Minecraft Quiz.csproj.GenerateResource.Cache
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\obj\Debug\Minecraft Quiz.exe.manifest
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Minecraft Quiz\Minecraft Quiz\obj\Debug\Minecraft Quiz.application
